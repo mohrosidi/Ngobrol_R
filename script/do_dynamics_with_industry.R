@@ -1,7 +1,5 @@
 #-----------Memuat Library-----------
 
-# install.packages(c("desolve", "tidyverse"))
-
 library(deSolve)
 library(tidyverse)
 
